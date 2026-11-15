@@ -1,0 +1,13 @@
+============================================================
+         STUDENT RESULT MANAGEMENT REPORT        
+============================================================
+Total Students: 2
+Class Average Score: 87.3
+Highest Average: 91.4
+Lowest Average: 83.2
+------------------------------------------------------------
+ID         | Full Name            | Total    | Average  | Grade
+------------------------------------------------------------
+ID         | Full Name            | Total    | Average  | Grade
+ID         | Full Name            | Total    | Average  | Grade
+============================================================

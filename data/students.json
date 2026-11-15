@@ -1,0 +1,32 @@
+{
+    "ST001": {
+        "student_id": "ST001",
+        "full_name": "ABASILIM IFUNANYA",
+        "student_class": "SS3",
+        "gender": "FEMALE",
+        "dob": "2006-10-06",
+        "scores": {
+            "MATHEMATICS": 92.0,
+            "ENGLISH": 96.0,
+            "PHYSICS": 87.0,
+            "CHEMISTRY": 89.0,
+            "BIOLOGY": 93.0
+        },
+        "date_added": "2026-11-11 10:26:47"
+    },
+    "ST013": {
+        "student_id": "ST013",
+        "full_name": "MICHAEL OLISE",
+        "student_class": "SS2",
+        "gender": "MALE",
+        "dob": "2OO8-03-07",
+        "scores": {
+            "MATHEMATICS": 73.0,
+            "ENGLISH": 67.0,
+            "PHYSICS": 87.0,
+            "CHEMISTRY": 91.0,
+            "BIOLOGY": 98.0
+        },
+        "date_added": "2026-11-11 10:42:16"
+    }
+}
